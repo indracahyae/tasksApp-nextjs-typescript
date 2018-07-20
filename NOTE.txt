@@ -1,0 +1,17 @@
+TASKS
+Create      /OK
+Read        /OK
+Edit > Update      /OK
+Delete      /OK
+Create Done /OK
+Fav         /OK
+
+DONE    
+Read    /OK
+Restore to Tasks    /OK
+Del     /OK
+Fav     /OK
+
+FAVOURITE
+Read    /OK
+Del     /OK
