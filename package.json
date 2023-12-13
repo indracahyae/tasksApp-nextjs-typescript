@@ -1,17 +1,25 @@
 {
-  "name": "crud-bulma",
-  "version": "0.1.0",
+  "name": "reactjs-tasks",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "bulma": "^0.7.1",
-    "react": "^16.4.0",
-    "react-dom": "^16.4.0",
-    "react-scripts": "1.1.4"
+    "@fortawesome/fontawesome-svg-core": "latest",
+    "@fortawesome/free-solid-svg-icons": "latest",
+    "@fortawesome/react-fontawesome": "latest",
+    "bulma": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "typescript": "latest"
   }
 }
