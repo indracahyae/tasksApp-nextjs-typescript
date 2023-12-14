@@ -1,5 +1,5 @@
 
-# Tasks App - Reactjs
+# Tasks App
 understanding basic flow of reactjs class components using typescript, nextjs, bulma css, FontAwesome
 
 ## Screenshots
